@@ -1,0 +1,547 @@
+{
+    "version": "0.4",
+    "title": "Rekamkit \u2013 Project Page",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "480536f2",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4a48ad50",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "21d9e9e7",
+                            "settings": {
+                                "title": "Our Projects",
+                                "align": "center",
+                                "title_color": "#262626",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Merriweather",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "700",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7e1ccc7e",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "color": "#DA0E2B",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "73370390",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 500,
+                                    "sizes": []
+                                },
+                                "gap": "no"
+                            },
+                            "elements": [
+                                {
+                                    "id": "b40c5f7",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2a6594c3",
+                                            "settings": {
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "text_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4e6bb367",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1800
+                },
+                "gap": "no",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "animation": "fadeIn"
+            },
+            "elements": [
+                {
+                    "id": "1ab98fd8",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "14488b7e",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 39,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/ascetic-interior-with-green-chairs-PM69372-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 40,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/retro-chair-in-empty-room-P4VGAHW-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 41,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/symmetry-and-style-PJH3MEU-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 42,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/modern-living-room-with-cactuses-P8KQYC6-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 43,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/living-room-with-oriental-accessories-PBHJ9CC-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 44,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/living-room-with-furniture-PHT45AG-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 45,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/little-grey-chair-PWQB8D6-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 46,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/minimalistic-living-room-PHFK2XH-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 47,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/wooden-furniture-to-take-to-pieces-MKFSZRQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 48,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/woman-smiling-outdoors-with-arms-crossed-PQRAJJK-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 49,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/white-furniture-in-room-PLGFNUV-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 50,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/startup-business-woman-working-on-desktop-computer-PXXLSBK-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 51,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/stylish-green-armchair-PZURQVL-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 52,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/lamp-and-poster-in-white-empty-living-room-interio-NBE7W56-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 53,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-sofa-and-furni-ZWSKDXG-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 54,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-sofa-and-furni-JAFD5P3-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 55,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-sofa-and-furni-8HLFTGV-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 56,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/minimalist-photo-of-chair-PDBK4NM-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 57,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/white-apartment-with-green-armchairs-PRG68QD-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 58,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/chair-and-telescope-PKC2DPQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 59,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/chair-table-plant-and-fur-P2ERV4Z-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 60,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-armchair-and-f-3BCMVEJ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 61,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-armchair-and-f-KL7P9A3-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 62,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-armchair-and-f-PM9S4RB-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 63,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/beuty-of-retro-design-PY6E7V4-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 64,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/chair-in-the-bedroom-PV6PZ6R-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 65,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-dining-room-scandinavian-style-3d-rend-ZKFGELH-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 66,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-dining-room-scandinavian-style-3d-rend-EFC74HQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 67,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/trendy-open-space-living-and-dining-room-interior-X87CUNQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 68,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/tropical-accent-in-stylish-interior-P5G4QNZ-scaled-1.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "Serial Film",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 95,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/unidentified-flying-object-alien-abduction-clipping-path.jpg"
+                                            },
+                                            {
+                                                "id": 96,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/wolf-hunting-in-mountain.jpg"
+                                            }
+                                        ],
+                                        "_id": "d1280c5"
+                                    },
+                                    {
+                                        "gallery_title": "Anthology Film",
+                                        "_id": "c3296fa",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 91,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/mocked-woman-smoking-in-the-kitchen.jpg"
+                                            },
+                                            {
+                                                "id": 101,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/medieval-knights-on-battle-field.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "gallery_title": "Short Filem",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 88,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/war-in-the-forest.jpg"
+                                            },
+                                            {
+                                                "id": 90,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/show.jpg"
+                                            }
+                                        ],
+                                        "_id": "2a77387"
+                                    }
+                                ],
+                                "columns": 3,
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "show_all_galleries_label": "All",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 5.2,
+                                    "sizes": []
+                                },
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 14,
+                                        "end": 80
+                                    }
+                                },
+                                "motion_fx_rotateZ_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_element_width": "inherit",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "24",
+                                    "bottom": "24",
+                                    "left": "24",
+                                    "isLinked": false
+                                },
+                                "overlay_title": "title",
+                                "overlay_description": "caption",
+                                "overlay_background_hover_color": "#000000CF",
+                                "background_overlay_animation_duration": {
+                                    "unit": "px",
+                                    "size": 894,
+                                    "sizes": []
+                                },
+                                "__dynamic__": [],
+                                "gallery_type": "multiple",
+                                "pointer_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "pointer": "background",
+                                "animation_framed": "grow",
+                                "image_border_radius_hover": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "galleries_title_color_normal": "#AAAAAA",
+                                "galleries_title_color_hover_pointer_bg": "#FFFFFF",
+                                "galleries_title_color_active": "#FFFFFF",
+                                "galleries_titles_gap": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "overlay_background_color": "rgba(255, 255, 255, 0.29)",
+                                "content_padding": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "title_typography_font_family": "Merriweather",
+                                "galleries_titles_space_between": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "thumbnail_image_size": "medium_large",
+                                "content_vertical_position": "middle",
+                                "description_color": "#FFFFFF",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "title_typography_typography": "custom",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "title_spacing": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "align_filter_bar_items": "center",
+                                "galleries_titles_typography_typography": "custom",
+                                "galleries_titles_typography_font_family": "Lato",
+                                "galleries_titles_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "galleries_titles_typography_font_weight": "700",
+                                "galleries_titles_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "lazyload": "",
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Lato",
+                                "description_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "description_typography_font_weight": "400",
+                                "description_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "galleries_titles_typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": 1.4,
+                                    "sizes": []
+                                },
+                                "_z_index": 1,
+                                "content_padding_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "galleries_pointer_color_hover": "globals\/colors?id=accent",
+                                    "galleries_pointer_color_active": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}

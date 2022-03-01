@@ -1,0 +1,2060 @@
+{
+    "version": "0.4",
+    "title": "Rekamkit \u2013 Home Page 2",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-home",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "297ca338",
+            "settings": {
+                "gap": "no",
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "280",
+                    "right": "50",
+                    "bottom": "250",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "id": 286,
+                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/silhoutte-images-of-video-production-and-lighting-set-for-filming-which-movie-crew-team-working-and.jpg"
+                },
+                "background_position": "top center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#000000",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.7
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "300",
+                    "right": "0",
+                    "bottom": "250",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_overlay_color_b": "#2d2d2d",
+                "background_overlay_color_stop": {
+                    "unit": "%",
+                    "size": 100
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "663"
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "background_video_link": "https:\/\/www.youtube.com\/watch?v=x7gENdQ7-bk",
+                "content_position": "middle",
+                "height": "full",
+                "background_video_fallback": {
+                    "id": 28,
+                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/camera-gimbal-stabilization.jpg"
+                },
+                "background_image_mobile": {
+                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/silhoutte-images-of-video-production-and-lighting-set-for-filming-which-movie-crew-team-working-and.jpg",
+                    "id": 286
+                },
+                "background_position_mobile": "center center",
+                "background_size_mobile": "cover"
+            },
+            "elements": [
+                {
+                    "id": "22fc89a7",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "404fb40f",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "39c49c67",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "300",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "49f8cbbc",
+                                            "settings": {
+                                                "title": "Videographer",
+                                                "title_color": "#FFFFFF",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lato",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "700",
+                                                "typography_text_transform": "uppercase",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": ""
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing_mobile": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4d55f641",
+                                            "settings": {
+                                                "title": "A good ending is the most important",
+                                                "header_size": "h1",
+                                                "align": "left",
+                                                "title_color": "#FFFFFF",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Merriweather",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 80,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 60,
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_tablet": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 38,
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 60,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "60e1bb9a",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+                                                "text_color": "#FFFFFF",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lato",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": ""
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1b1865fb",
+                            "settings": {
+                                "text": "View Projects",
+                                "align": "left",
+                                "size": "md",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13
+                                },
+                                "typography_font_family": "Lato",
+                                "typography_font_weight": "900",
+                                "typography_text_transform": "uppercase",
+                                "background_color": "rgba(0,0,0,0)",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "rgba(255,255,255,0.2)",
+                                "hover_animation": "sink",
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "link": {
+                                    "url": "#projects",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "_animation": "fadeInUp",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.8,
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "align_mobile": "left",
+                                "_element_width": "auto"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "319643fb",
+                            "settings": {
+                                "text": "Hire Us Now",
+                                "align": "left",
+                                "size": "md",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13
+                                },
+                                "typography_font_family": "Lato",
+                                "typography_font_weight": "900",
+                                "typography_text_transform": "uppercase",
+                                "background_color": "#DA0E2B",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "rgba(255,255,255,0.2)",
+                                "hover_animation": "sink",
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.8,
+                                    "sizes": []
+                                },
+                                "button_hover_border_color": "#FFFFFF",
+                                "border_color": "#DA0E2B",
+                                "align_tablet": "left",
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "text_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "40",
+                                    "bottom": "15",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1dab0ac9",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "border_border": "solid",
+                "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "border_color": "#eaeaea",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#020202",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "30",
+                    "bottom": "50",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "50",
+                    "bottom": "80",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "576c9622",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 45,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInLeft",
+                        "animation_duration": "slow",
+                        "_inline_size_tablet": 100,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1924cd26",
+                            "settings": {
+                                "image": {
+                                    "id": 287,
+                                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/video-movie-cinema-concept-retro-camera-clapperboard-and-director-chair-3d.jpg"
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 94,
+                                    "sizes": []
+                                },
+                                "image_border_border": "solid",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "image_border_color": "#FFFFFF",
+                                "image_box_shadow_box_shadow_type": "yes",
+                                "image_box_shadow_box_shadow": {
+                                    "horizontal": 4,
+                                    "vertical": 0,
+                                    "blur": 14,
+                                    "spread": 5,
+                                    "color": "rgba(0, 0, 0, 0.2)"
+                                },
+                                "_z_index": 1,
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": 1.5,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "78c72aaf",
+                            "settings": {
+                                "image": {
+                                    "id": 38,
+                                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/shape-1.png"
+                                },
+                                "align": "right",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-240",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin_tablet": {
+                                    "unit": "%",
+                                    "top": "-37",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "-200",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5da46260",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 55,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInRight",
+                        "animation_duration": "slow",
+                        "content_position": "center",
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "110917d4",
+                            "settings": {
+                                "title": "SINCE 1993",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Lato",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f34962c",
+                            "settings": {
+                                "title": "We are a creative film and video production company based in Bandung Indonesia.",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": ""
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_family": "Merriweather",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "29328808",
+                            "settings": {
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 3
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 10
+                                },
+                                "align": "left",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2
+                                },
+                                "color": "#da0e2b",
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow",
+                                "text": "Divider",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5ca96248",
+                            "settings": {
+                                "editor": "<p>We are a creative film and photo production company hungry for quality in aesthetics. To create modern recognizable stuff we are working with a strong network of experienced professionals. We set up teams to shape your identity, push your idea and manage the workflow from pre- to post-production.<\/p>",
+                                "text_color": "#EAEAEA",
+                                "__globals__": {
+                                    "text_color": "",
+                                    "typography_typography": "globals\/typography?id=text"
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_family": "Lato",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1f79d128",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_color": "#020202",
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "100",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "780f6d4e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "56873f72",
+                            "settings": {
+                                "title": "Filming Services",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": ""
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_family": "Merriweather",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "title_color": "#FFFFFF",
+                                "align": "center",
+                                "align_mobile": "left",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "31610248",
+                            "settings": {
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 3
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 10
+                                },
+                                "align": "center",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2
+                                },
+                                "color": "#da0e2b",
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow",
+                                "text": "Divider",
+                                "align_mobile": "left",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2685462e",
+                            "settings": {
+                                "editor": "<p>I offer different services such as filming services, workshop &amp; private tuition, equipment hire. If you have any question, don't hesitate to contact me.<\/p>",
+                                "text_color": "#EAEAEA",
+                                "__globals__": {
+                                    "text_color": "",
+                                    "typography_typography": "globals\/typography?id=text"
+                                },
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Lato",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "25",
+                                    "bottom": "0",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "left",
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2b3673c5",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6abf0569",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2c3eb53d",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/tripod.png",
+                                                    "id": 294
+                                                },
+                                                "title_text": "Filming Services",
+                                                "description_text": "I can film your project whether it is a commercial advertise, a short film or a document film. I have expertise in these fields.",
+                                                "text_align": "center",
+                                                "title_color": "#FFFFFF",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Merriweather",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "description_color": "#AAAAAA",
+                                                "text_align_mobile": "left",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "41e1e428",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "47ea149a",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/movie-reel.png",
+                                                    "id": 293
+                                                },
+                                                "title_text": "Workshops & Private Tuition",
+                                                "description_text": "I can film your project whether it is a commercial advertise, a short film or a document film. I have expertise in these fields.",
+                                                "text_align": "center",
+                                                "title_color": "#FFFFFF",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Merriweather",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "description_color": "#AAAAAA",
+                                                "text_align_mobile": "left",
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 400,
+                                                "title_typography_line_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2ffa292f",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3c0e2c78",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/video-camera.png",
+                                                    "id": 295
+                                                },
+                                                "title_text": "Equipment Hire",
+                                                "description_text": "I can film your project whether it is a commercial advertise, a short film or a document film. I have expertise in these fields.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 23,
+                                                    "sizes": []
+                                                },
+                                                "text_align": "center",
+                                                "title_color": "#FFFFFF",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Merriweather",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "description_color": "#AAAAAA",
+                                                "text_align_mobile": "left",
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 600
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4ff7d17b",
+            "settings": {
+                "gap": "no",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#0E0E0E",
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 50
+                },
+                "shape_divider_top_flip": "yes",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "_element_id": "projects"
+            },
+            "elements": [
+                {
+                    "id": "27d08e0f",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "4f23096",
+                            "settings": {
+                                "title": "Featured Films",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Merriweather",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "53305f50",
+                            "settings": {
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 3
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 10
+                                },
+                                "align": "left",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2
+                                },
+                                "color": "#da0e2b",
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow",
+                                "text": "Divider",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6e0a37ea",
+                            "settings": {
+                                "text_color": "#AAAAAA",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7c7b34a9",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1ce05b9e",
+                            "settings": {
+                                "text": "VIEW ALL PROJECTS",
+                                "align": "right",
+                                "size": "md",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13
+                                },
+                                "typography_font_family": "Lato",
+                                "typography_font_weight": "900",
+                                "typography_text_transform": "uppercase",
+                                "background_color": "rgba(0,0,0,0)",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "button_text_color": "#ffffff",
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "#da0e2b",
+                                "border_color": "#ffffff",
+                                "align_mobile": "left",
+                                "hover_animation": "sink",
+                                "align_tablet": "left",
+                                "button_hover_border_color": "#da0e2b",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "60",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "327c0fd3",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1800
+                },
+                "gap": "no",
+                "background_background": "classic",
+                "background_color": "#0E0E0E",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "animation": "none",
+                "animation_mobile": "none"
+            },
+            "elements": [
+                {
+                    "id": "607d965d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "animation_mobile": "none"
+                    },
+                    "elements": [
+                        {
+                            "id": "5695c31a",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 39,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/ascetic-interior-with-green-chairs-PM69372-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 40,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/retro-chair-in-empty-room-P4VGAHW-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 41,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/symmetry-and-style-PJH3MEU-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 42,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/modern-living-room-with-cactuses-P8KQYC6-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 43,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/living-room-with-oriental-accessories-PBHJ9CC-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 44,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/living-room-with-furniture-PHT45AG-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 45,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/little-grey-chair-PWQB8D6-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 46,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/minimalistic-living-room-PHFK2XH-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 47,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/wooden-furniture-to-take-to-pieces-MKFSZRQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 48,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/woman-smiling-outdoors-with-arms-crossed-PQRAJJK-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 49,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/white-furniture-in-room-PLGFNUV-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 50,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/startup-business-woman-working-on-desktop-computer-PXXLSBK-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 51,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/stylish-green-armchair-PZURQVL-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 52,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/lamp-and-poster-in-white-empty-living-room-interio-NBE7W56-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 53,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-sofa-and-furni-ZWSKDXG-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 54,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-sofa-and-furni-JAFD5P3-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 55,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-sofa-and-furni-8HLFTGV-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 56,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/minimalist-photo-of-chair-PDBK4NM-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 57,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/white-apartment-with-green-armchairs-PRG68QD-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 58,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/chair-and-telescope-PKC2DPQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 59,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/chair-table-plant-and-fur-P2ERV4Z-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 60,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-armchair-and-f-3BCMVEJ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 61,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-armchair-and-f-KL7P9A3-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 62,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-modern-living-room-with-armchair-and-f-PM9S4RB-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 63,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/beuty-of-retro-design-PY6E7V4-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 64,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/chair-in-the-bedroom-PV6PZ6R-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 65,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-dining-room-scandinavian-style-3d-rend-ZKFGELH-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 66,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/interior-of-dining-room-scandinavian-style-3d-rend-EFC74HQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 67,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/trendy-open-space-living-and-dining-room-interior-X87CUNQ-scaled-1.jpg"
+                                    },
+                                    {
+                                        "id": 68,
+                                        "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/tropical-accent-in-stylish-interior-P5G4QNZ-scaled-1.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "Serial Film",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 95,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/unidentified-flying-object-alien-abduction-clipping-path.jpg"
+                                            },
+                                            {
+                                                "id": 96,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/wolf-hunting-in-mountain.jpg"
+                                            }
+                                        ],
+                                        "_id": "d1280c5"
+                                    },
+                                    {
+                                        "gallery_title": "Anthology Film",
+                                        "_id": "c3296fa",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 91,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/mocked-woman-smoking-in-the-kitchen.jpg"
+                                            },
+                                            {
+                                                "id": 101,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/medieval-knights-on-battle-field.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "gallery_title": "Short Filem",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 88,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/war-in-the-forest.jpg"
+                                            },
+                                            {
+                                                "id": 90,
+                                                "url": "https:\/\/rekamkit.themesawesome.com\/wp-content\/uploads\/sites\/141\/2020\/09\/show.jpg"
+                                            }
+                                        ],
+                                        "_id": "2a77387"
+                                    }
+                                ],
+                                "columns": 3,
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "show_all_galleries_label": "All",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 5.2,
+                                    "sizes": []
+                                },
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 14,
+                                        "end": 80
+                                    }
+                                },
+                                "motion_fx_rotateZ_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_element_width": "inherit",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "24",
+                                    "bottom": "24",
+                                    "left": "24",
+                                    "isLinked": false
+                                },
+                                "overlay_title": "title",
+                                "overlay_description": "caption",
+                                "overlay_background_hover_color": "#000000CF",
+                                "background_overlay_animation_duration": {
+                                    "unit": "px",
+                                    "size": 894,
+                                    "sizes": []
+                                },
+                                "__dynamic__": [],
+                                "gallery_type": "multiple",
+                                "pointer_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "pointer": "background",
+                                "animation_framed": "grow",
+                                "image_border_radius_hover": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "galleries_title_color_normal": "#AAAAAA",
+                                "galleries_title_color_hover_pointer_bg": "#FFFFFF",
+                                "galleries_title_color_active": "#FFFFFF",
+                                "galleries_titles_gap": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "overlay_background_color": "rgba(255, 255, 255, 0.29)",
+                                "content_padding": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "title_typography_font_family": "Merriweather",
+                                "galleries_titles_space_between": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "thumbnail_image_size": "medium_large",
+                                "content_vertical_position": "middle",
+                                "description_color": "#FFFFFF",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "title_typography_typography": "custom",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "title_spacing": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "align_filter_bar_items": "center",
+                                "galleries_titles_typography_typography": "custom",
+                                "galleries_titles_typography_font_family": "Lato",
+                                "galleries_titles_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "galleries_titles_typography_font_weight": "700",
+                                "galleries_titles_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "lazyload": "",
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Lato",
+                                "description_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "description_typography_font_weight": "400",
+                                "description_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "galleries_titles_typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": 1.4,
+                                    "sizes": []
+                                },
+                                "_z_index": 1,
+                                "content_padding_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "title_typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 23,
+                                    "sizes": []
+                                },
+                                "description_typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_animation_mobile": "none",
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow",
+                                "content_padding_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "galleries_pointer_color_hover": "globals\/colors?id=accent",
+                                    "galleries_pointer_color_active": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "66867b0f",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#da0e2b",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5f251c4a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "50",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "118a80b",
+                            "settings": {
+                                "title": "Are You Ready? Let\u2019s Work!",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "typography_font_family": "Lato",
+                                "typography_font_weight": "900",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 31
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4accff3c",
+                            "settings": {
+                                "text": "Hire Us Now",
+                                "link": {
+                                    "url": "#projects",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "align": "center",
+                                "align_mobile": "center",
+                                "size": "md",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Lato",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "typography_font_weight": "900",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.8,
+                                    "sizes": []
+                                },
+                                "background_color": "rgba(0,0,0,0)",
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "rgba(255,255,255,0.2)",
+                                "hover_animation": "sink",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "35",
+                                    "bottom": "15",
+                                    "left": "35",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}
